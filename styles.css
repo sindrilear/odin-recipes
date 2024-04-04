@@ -1,0 +1,41 @@
+h1 {
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    padding: 3px;
+}
+
+h3 {
+    color:darkgreen;
+    font-size:x-large;
+}
+
+* {
+    background-color: #ECFFFF;
+}
+
+ol > li::marker {
+    font-weight: bold;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif
+}
+
+#link {
+    font-size:larger;
+}
+
+p {
+    border-style: dotted;
+}
+
+ul {
+    list-style-type: square;
+}
