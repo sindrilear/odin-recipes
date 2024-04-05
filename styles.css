@@ -48,7 +48,7 @@ ol > li::marker {
 }
 
 p {
-    width:400px;
+    max-width:400px;
     height: auto;
     margin: auto;
 }
@@ -65,4 +65,14 @@ ul {
     width: 50%;
     float: left;
     padding 20px;
+}
+
+.ingredients {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.instructions {
+    max-width: 600px;
+    margin: 0 auto;
 }
